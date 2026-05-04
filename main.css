@@ -1,0 +1,69 @@
+/*Your CSS goes here.*/
+
+
+
+h2{
+	font-size:40px;
+	color:#120A8F;
+	font-family:Times New Roman, Arial;
+	font-weight:bold;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right:auto;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+h3{
+	font-size:24px;
+	color:#120A8F;
+	font-family:Times New Roman, Arial;
+	font-weight:normal;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right:auto;
+	padding-left: 10px;
+	padding-right: 10px;
+
+
+}
+
+.percantage-chart,{
+	padding: 10px 8px;
+	max-width:800px;
+	margin-left: auto;
+	margin-right: auto;
+	height:874px;
+}
+
+.capacity-chart{
+    padding: 10px 8px;
+	max-width:800px;
+	margin-left: auto;
+	margin-right: auto;
+	height:874px;
+
+}
+
+.story{
+	max-width: 800px;
+	margin-left: auto;
+	margin-right:auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-weight:normal;
+	color:#120A8F;
+	font-family:Times New Roman, Arial;
+	font-size:20px;
+
+}
+
+.story-header{
+	border-bottom: 4px solid darkred;
+	max-width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
